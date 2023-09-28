@@ -1,15 +1,15 @@
 Hi! My name is Kylie
 ========================================================================================================================================
-#### Front End Developer <br/>
-#### Frontend:  HTML | CSS | Javascript | React <br/>
-#### Backend: Node.js | Express | MongoDb <br/>
-####  🛼: Roller skater & 🌳: Outdoors(wo)man ✈️: Traveller
+Front End Developer <br/>
+Frontend:  HTML | CSS | Javascript | React <br/>
+Backend: Node.js | Express | MongoDb <br/>
+ Roller skater & 🌳 Outdoors(wo)man ✈️ Traveller
 
 ## My values
 
-🧠:  **Learning** should be lifelong <br/>
-:key:  Good **communication** is key <br/>
-:hearts: Do everything with **passion** <br/>
+🧠  **Learning** should be lifelong <br/>
+:key  Good **communication** is key <br/>
+:hearts Do everything with **passion** <br/>
 
 ## About me
 
