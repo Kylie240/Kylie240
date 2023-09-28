@@ -7,7 +7,7 @@ Backend: Node.js | Express | MongoDb <br/>
 
 ## My values
 
-🧠  **Learning** should be lifelong <br/>
+🧠 **Learning** should be lifelong <br/>
 :key  Good **communication** is key <br/>
 :hearts Do everything with **passion** <br/>
 
@@ -18,5 +18,5 @@ Backend: Node.js | Express | MongoDb <br/>
 
 
 ## Get in touch 
-My site: [akylieoliver.com](https://www.kylieoliver.com/)
+My site: [kylieoliver.com](https://www.kylieoliver.com/)
 Email: olivkylie@gmail.com
