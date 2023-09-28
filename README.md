@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi! My name is Kylie
+========================================================================================================================================
+#### Front End Developer <br/>
+#### Frontend:  HTML | CSS | Javascript | React <br/>
+#### Backend: Node.js | Express | MongoDb <br/>
+####  🛼: Roller skater & 🌳: Outdoors(wo)man ✈️: Traveller
 
-<!--
-**Kylie240/Kylie240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My values
 
-Here are some ideas to get you started:
+🧠:  **Learning** should be lifelong <br/>
+:key:  Good **communication** is key <br/>
+:hearts: Do everything with **passion** <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+
+**Self-strating self-taught Front End Developer**. I started making websites from a young age, and decided one day that I wanted a deeper understaing abou how they work. Since that day I have been learning non stop about frontend technologies, backend technologies, and computer science related topics.
+
+
+## Get in touch 
+My site: [akylieoliver.com](https://www.kylieoliver.com/)
+Email: olivkylie@gmail.com
