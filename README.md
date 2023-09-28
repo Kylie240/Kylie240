@@ -3,7 +3,7 @@ Hi! My name is Kylie
 Front End Developer <br/>
 Frontend:  HTML | CSS | Javascript | React <br/>
 Backend: Node.js | Express | MongoDb <br/>
- Roller skater & 🌳 Outdoors(wo)man ✈️ Traveller
+⛸️ Skater 🌳 Outdoors(wo)man ✈️ Traveller
 
 ## My values
 
