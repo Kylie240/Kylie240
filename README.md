@@ -4,7 +4,7 @@ Hi! My name is Kylie
 
 Frontend:  HTML | CSS | Javascript | React <br/>
 Backend: Node.js | Express | MongoDb <br/>
-
+<br/>
 ⛸️ Skater 🌳 Outdoors(wo)man ✈️ Traveller
 
 ## My values
