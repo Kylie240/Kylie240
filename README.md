@@ -21,4 +21,4 @@ Backend: Node.js | Express | MongoDb <br/>
 
 ## Get in touch 
 My site: [kylieoliver.com](https://www.kylieoliver.com/)
-Email: @olivkylie@gmail.com
+Email: olivkylie@gmail.com
