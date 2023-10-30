@@ -5,6 +5,7 @@ Hi! My name is Kylie
 Frontend:  HTML | CSS | Javascript | Typescript | React <br/>
 Backend: Node.js | Express | MongoDb <br/>
 <br/>
+Currently learning: Next.js | Java | SQL <br/
 ⛸️ Skater 🌳 Outdoors(wo)man ✈️ Traveller
 
 ## My values
