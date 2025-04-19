@@ -2,10 +2,10 @@ Hi! My name is Kylie
 ========================================================================================================================================
 **Front End Developer** <br/>
 
-Frontend:  HTML | CSS | Javascript | Typescript | React <br/>
+Frontend:  HTML | CSS | Javascript | Typescript | Angular <br/>
 Backend: Node.js | Express | MongoDb <br/>
 <br/>
-📖 Learning: Next.js | Java | SQL <br/>
+📖 Learning: SQL | C# | .NET <br/>
 
 ## My values
 
