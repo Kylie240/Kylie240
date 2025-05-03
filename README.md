@@ -2,7 +2,7 @@ Hi! My name is Kylie
 ========================================================================================================================================
 **Front End Developer** <br/>
 
-Frontend:  HTML | CSS | Javascript | Typescript | Angular <br/>
+Frontend:  HTML | CSS | Javascript | Typescript | React | Angular <br/>
 Backend: Node.js | Express | MongoDb <br/>
 <br/>
 📖 Learning: SQL | C# | .NET <br/>
