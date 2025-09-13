@@ -18,6 +18,6 @@ Backend: Node.js | Express | Supabase <br/>
 Currently a developer for a leading Cyber Security company, where I help develop and maintain enterprise level software. When I'm not a work you can find me coding personal projects at home or enjoying the great outdoors🌲
 
 ## Get in touch 
-My site: [kylieoliver.com](https://www.kylieoliver.com/)
-Email: olivkylie@gmail.com
+My site: [kylieoliver.com](https://www.kylieoliver.com/) <br/>
+Email: olivkylie@gmail.com <br/>
 LinkedIn: [https://www.linkedin.com/in/kylie-oliver/]
