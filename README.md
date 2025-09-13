@@ -20,3 +20,4 @@ Currently a developer for a leading Cyber Security company, where I help develop
 ## Get in touch 
 My site: [kylieoliver.com](https://www.kylieoliver.com/)
 Email: olivkylie@gmail.com
+LinkedIn: [https://www.linkedin.com/in/kylie-oliver/]
