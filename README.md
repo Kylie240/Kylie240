@@ -1,11 +1,11 @@
 Hi! My name is Kylie
 ========================================================================================================================================
-**Front End Developer** <br/>
+**Web Developer** <br/>
 
-Frontend:  HTML | CSS | Javascript | Typescript | React | Angular <br/>
-Backend: Node.js | Express | MongoDb <br/>
+Frontend:  HTML | CSS | Javascript | Typescript | Angular | React | NextJS <br/>
+Backend: Node.js | Express | Supabase <br/>
 <br/>
-📖 Learning: SQL | C# | .NET <br/>
+📖 Learning: T-SQL | PostgreSQL | C# | .NET <br/>
 
 ## My values
 
@@ -15,9 +15,7 @@ Backend: Node.js | Express | MongoDb <br/>
 
 ## About me
 
-
-**Self-strating self-taught Front End Developer**. I started making websites from a young age, and decided one day that I wanted a deeper understaing abou how they work. Since that day I have been learning non stop about frontend technologies, backend technologies, and computer science related topics.
-
+Currently a developer for a leading Cyber Security company, where I help develop and maintain enterprise level software. When I'm not a work you can find me coding personal projects at home or enjoying the great outdoors🌲
 
 ## Get in touch 
 My site: [kylieoliver.com](https://www.kylieoliver.com/)
